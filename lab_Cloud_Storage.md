@@ -74,9 +74,8 @@ In this lab, you learn how to perform the following tasks:
 2. Click Create bucket.
 3. Specify the following, and leave the remaining settings as their defaults:
 
-<img src="../images/lab_Cloud_storage_01.png"
-        alt="lab_Cloud_storage_01.png"
-        style="float: left; margin-right: 10px;" />
+<img width="445" alt="image" src="https://github.com/rifkih-ramadhan-ioh/GCP-Lab/assets/114387728/4d3f1f8f-4186-467c-a269-6a6d6ded3c8d">
+
 
 
 4. Make a note of the bucket name. It will be used later in this lab and referred to as [BUCKET_NAME_1].
@@ -536,9 +535,8 @@ cp setup.html firstlevel/secondlevel
 2. Click Create bucket.
 3. Specify the following, and leave the remaining settings as their defaults:
 
-<img src="../images/lab_Cloud_storage_02.png"
-        alt="lab_Cloud_storage_02.png"
-        style="float: left; margin-right: 10px;" />
+<img width="441" alt="image" src="https://github.com/rifkih-ramadhan-ioh/GCP-Lab/assets/114387728/b7220bcc-7508-4055-b5cc-8201ccabd2f9">
+
 
 
 4. Note the bucket name. It will be referred to as [BUCKET_NAME_2] in the following steps.
@@ -575,9 +573,8 @@ cp setup.html firstlevel/secondlevel
 2. Click Create.
 3. Specify the following, and leave the remaining settings as their defaults:
 
-<img src="../images/lab_Cloud_storage_03.png"
-        alt="lab_Cloud_storage_03.png"
-        style="float: left; margin-right: 10px;" />
+<img width="436" alt="image" src="https://github.com/rifkih-ramadhan-ioh/GCP-Lab/assets/114387728/9b17475c-240a-473d-b461-dfc9f11360ec">
+
 
 
 4. Click Create.
