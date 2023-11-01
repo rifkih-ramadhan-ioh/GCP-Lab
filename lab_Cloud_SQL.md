@@ -10,9 +10,8 @@ By the end of this lab, you will have 2 working instances of the Wordpress front
 
 SQL Lab Diagram
 
-<img src="../images/lab_Cloud_SQL_02.png"
-        alt="lab_Cloud_SQL_02.png"
-        style="float: left; margin-right: 10px;" />
+<img width="998" alt="image" src="https://github.com/rifkih-ramadhan-ioh/GCP-Lab/assets/114387728/e4d66a43-d530-4ea5-ae0b-0e483f46daab">
+
 
 
 ## Objectives
@@ -33,9 +32,8 @@ In this task, you configure a SQL server according to GCP best practices and cre
 3. Click Choose MySQL.
 4. Specify the following, and leave the remaining settings as their defaults:
 
-<img src="../images/lab_Cloud_SQL_03.png"
-        alt="lab_Cloud_SQL_03.png"
-        style="float: left; margin-right: 10px;" />
+<img width="486" alt="image" src="https://github.com/rifkih-ramadhan-ioh/GCP-Lab/assets/114387728/6b972d22-6d38-4205-a18f-5a7a19b70d74">
+
 
 > **Note** the root password; it will be used in a later step and referred to as [ROOT_PASSWORD].
 5. Expand Show configuration options.
@@ -153,18 +151,16 @@ curl -H "Metadata-Flavor: Google" http://169.254.169.254/computeMetadata/v1/inst
 3. Click Let's Go.
 4. Specify the following, replacing [ROOT_PASSWORD] with the password you configured upon machine creation, and leave the remaining settings as their defaults:
 
-<img src="../images/lab_Cloud_SQL_04.png"
-        alt="lab_Cloud_SQL_04.png"
-        style="float: left; margin-right: 10px;" />
+<img width="479" alt="image" src="https://github.com/rifkih-ramadhan-ioh/GCP-Lab/assets/114387728/33c61c8d-a85a-4aa9-9a1c-3286f8ff53d9">
+
 
 
 > You are using 127.0.0.1, localhost as the Database IP because the proxy you initiated listens on this address and redirects that traffic to your SQL server securely.
 
 SQL Proxy
 
-<img src="../images/lab_Cloud_SQL_05_SQL_proxy.png"
-        alt="lab_Cloud_SQL_05_SQL_proxy.png"
-        style="float: left; margin-right: 10px;" />
+<img width="895" alt="image" src="https://github.com/rifkih-ramadhan-ioh/GCP-Lab/assets/114387728/026d7624-bae3-4c67-a30a-520a009c72ca">
+
 
 5. Click Submit.
 
@@ -197,9 +193,7 @@ By using Private IP, you will increase performance by reducing latency and minim
 
 7. Specify the following, and leave the remaining settings as their defaults:
 
-<img src="../images/lab_Cloud_SQL_06.png"
-        alt="lab_Cloud_SQL_06.png"
-        style="float: left; margin-right: 10px;" />
+<img width="435" alt="image" src="https://github.com/rifkih-ramadhan-ioh/GCP-Lab/assets/114387728/72e31a09-e0f6-4b3c-b7c0-8f3e7af572cb">
 
 
 8. Click Submit.
@@ -211,9 +205,8 @@ By using Private IP, you will increase performance by reducing latency and minim
 
 SQL Proxy
 
-<img src="../images/lab_Cloud_SQL_07.png"
-        alt="lab_Cloud_SQL_07.png"
-        style="float: left; margin-right: 10px;" />
+<img width="909" alt="image" src="https://github.com/rifkih-ramadhan-ioh/GCP-Lab/assets/114387728/1eeb60b4-87c6-4cd0-85b3-e1eeae95277f">
+
 
 
 ## Task 5: Review
@@ -223,6 +216,4 @@ In this lab, you created a Cloud SQL database and configured it to use both an e
 
 SQL Lab Diagram
 
-<img src="../images/lab_Cloud_SQL_08.png"
-        alt="lab_Cloud_SQL_08.png"
-        style="float: left; margin-right: 10px;" />
+<img width="902" alt="image" src="https://github.com/rifkih-ramadhan-ioh/GCP-Lab/assets/114387728/f6933a93-5f26-4b55-a4e5-d96b3405eaaa">
